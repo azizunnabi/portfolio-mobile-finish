@@ -146,7 +146,7 @@ a.inline {
 /* Header / 1 */
 
 .h2 {
-  margin-top:-30px;
+  margin-top: -30px;
   font-family: "poppins", Times, serif;
   font-style: normal;
   font-weight: 700;
@@ -259,7 +259,7 @@ h5 {
 
 .ets {
   color: #6070ff;
-  padding-top:50px;
+  padding-top: 50px;
 }
 
 .image3 {
@@ -357,6 +357,7 @@ h5 {
 .sec3p11 {
   margin-top: -30px;
 }
+
 .sec3p1 {
   width: 295px;
   height: 76px;
