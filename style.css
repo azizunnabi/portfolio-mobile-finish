@@ -127,8 +127,9 @@ a.inline {
 
 .section2 {
   margin-left: 30px;
-  margin-top: -10px;
+  margin-top: -1px;
   width: 920px;
+  padding-top: 60px;
   height: 122px;
 }
 
@@ -145,6 +146,7 @@ a.inline {
 /* Header / 1 */
 
 .h2 {
+  margin-top:-30px;
   font-family: "poppins", Times, serif;
   font-style: normal;
   font-weight: 700;
@@ -257,8 +259,7 @@ h5 {
 
 .ets {
   color: #6070ff;
-  margin-top: -50px;
-  padding-top: 125px;
+  padding-top:50px;
 }
 
 .image3 {
@@ -325,7 +326,7 @@ h5 {
 
 .section3 {
   margin-left: 30px;
-  padding-top: 300px;
+  padding-top: 190px;
 }
 
 .sec3rlink2 {
@@ -353,8 +354,10 @@ h5 {
   flex-grow: 0;
 }
 
+.sec3p11 {
+  margin-top: -30px;
+}
 .sec3p1 {
-  margin-top: 0;
   width: 295px;
   height: 76px;
   text-align: justify;
